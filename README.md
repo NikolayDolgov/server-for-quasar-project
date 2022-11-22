@@ -11,5 +11,5 @@ A server for quasar project
 ## Особенности
 
 * сервер запускается на http://localhost:3000
-- frontend для проекта расположен по ссылке (quasar-project)[https://github.com/NikolayDolgov/quasar-project]
+- frontend для проекта расположен по ссылке [quasar-project](https://github.com/NikolayDolgov/quasar-project)
 - frontend запускается на http://localhost:9000
